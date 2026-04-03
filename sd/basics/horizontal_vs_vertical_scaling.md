@@ -1,4 +1,3 @@
-
 # Horizontal vs Vertical Scaling
 
 Assume a SaaS.
@@ -27,3 +26,5 @@ More request handling by throwing more money at the problem.
 
 Both are used in real world. 
 Is your system scalable, resilient & consistent?
+
+[Resource](https://www.youtube.com/watch?v=xpDnVSmNFX0)
